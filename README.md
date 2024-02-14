@@ -1,4 +1,5 @@
 Projektni zadatak iz predmeta Web Programiranje
+
 Korišteni Node.js, React i MySQL 
 
 Korišteni paketi: 
